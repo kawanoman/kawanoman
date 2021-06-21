@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kawanoman
 - 👀 I’m interested in Software Engineering. 
 - 🌱 I’m currently learning OOPs.
-- 💞️ I’m looking to collaborate on any Projects.
+- 💞️ I’m looking to collaborate on new Projects.
 - 📫 How to reach me ...
 
 <!---
