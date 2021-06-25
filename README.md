@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kawanoman
-- 👀 I’m interested in Software Engineering. 
+- 👀 I’m interested in Data Science. 
 - 🌱 I’m currently learning OOPs.
 - 💞️ I’m looking to collaborate on new Projects.
 - 📫 How to reach me ...
