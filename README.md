@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science. 
 - 🌱 I’m currently learning OOPs.
 - 💞️ I’m looking to collaborate on new Projects.
-- 📫 How to reach me ...
+- 📫 How to reach me on this Email: kawa.noman@uni-bielefeld.de
 
 <!---
 kawanoman/kawanoman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
