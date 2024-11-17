@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kawanoman
-- 👀 I’m interested in Data Science. 
+- 👀 I’m interested in Data science.
 - 🌱 I’m currently learning OOPs.
-- 💞️ I’m looking to collaborate on new Projects.
-- 📫 How to reach me on this Email: kawa.noman@uni-bielefeld.de
+- 💞️ I’m looking to collaborate on new Projects to understanding and execution of data science tasks by providing accurate and relevant information.
+- 📫 How to reach me on this Email: kawa.noman@rptu.de
 
 <!---
 kawanoman/kawanoman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
