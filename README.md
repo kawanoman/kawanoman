@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kawanoman
-- 👀 I’m interested in Data science.
-- 🌱 I’m currently learning OOPs.
+- 👀 I’m interested in Data science and techology.
+- 🌱 I’m currently learning OOPs and Gen AL.
 - 💞️ I’m looking to collaborate on new Projects to understanding and execution of data science tasks by providing accurate and relevant information.
 - 📫 How to reach me on this Email: kawa.noman@rptu.de
 
